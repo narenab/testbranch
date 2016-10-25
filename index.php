@@ -26,3 +26,5 @@
 
 require(dirname(__FILE__).'/config/config.inc.php');
 Dispatcher::getInstance()->dispatch();
+
+//I am in the world of count and test this elcispe test branch
